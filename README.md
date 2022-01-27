@@ -70,6 +70,8 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
+## Deploy to railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=ALIVE_NAME%2CAPI_HASH%2CAPI_ID%2CASSISTANT_NAME%2CBOT_NAME%2CBOT_TOKEN%2CBOT_USERNAME%2CGROUP_SUPPORT%2COWNER_NAME%2CSESSION_NAME%2CSUDO_USERS%2CUPDATES_CHANNEL&ASSISTANT_NAMEDesc=without+%40&ALIVE_NAMEDefault=Levina&GROUP_SUPPORTDefault=chating_grp&UPDATES_CHANNELDefault=Request_flix_official&referralCode=_8MDq)
 
 ```sh
 sudo apt update && apt upgrade -y
